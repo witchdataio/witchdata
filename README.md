@@ -1,3 +1,4 @@
+![WitchData Portfolio](witchdata.png)
 # WitchData Portfolio
 
 A minimal static portfolio landing page featuring the WitchData logo and a GitHub link.
